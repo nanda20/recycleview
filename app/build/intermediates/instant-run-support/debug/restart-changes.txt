@@ -1,0 +1,5 @@
+CHANGED,D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\owner\kuis\RecycleList$Player.class
+CHANGED,D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\owner\kuis\RecycleList.class
+CHANGED,D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\owner\kuis\RecycleList$PlayerAdapter$ViewHolder.class
+CHANGED,D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\owner\kuis\RecycleList$PlayerAdapter$1.class
+CHANGED,D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\transforms\instantRun\debug\folders\1\5\main\com\example\owner\kuis\RecycleList$PlayerAdapter.class

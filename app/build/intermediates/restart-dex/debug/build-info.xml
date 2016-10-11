@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="16"
+    density="hdpi"
+    format="7"
+    timestamp="12330790345311"
+    token="-4246767102343637593"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="188" />
+    <task
+        name="instant-run-dex"
+        duration="464" />
+    <task
+        name="instant-run-transform"
+        duration="32" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="12059029092915" >
+        <artifact
+            location="D:\POLINEMA\sem5\Andro\Kuis\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="12330790345311"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\POLINEMA\sem5\Andro\Kuis\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

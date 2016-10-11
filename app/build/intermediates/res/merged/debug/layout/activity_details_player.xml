@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.owner.kuis.DetailsPlayer">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/playerImagesDetails"
+        android:src="@drawable/gonzales"
+        />
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="7dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/playerNameDetails"
+        android:layout_below="@+id/playerImagesDetails"
+        android:textSize="15dp"
+        android:text="Bustomi Arifin"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/playerInfoDetails"
+        android:textSize="15dp"
+        android:text="CF | 40"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:layout_alignTop="@+id/playerNameDetails"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:textSize="12dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content"
+        android:id="@+id/playerDetails"
+        android:text="lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor ippsum lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor lorem ipsum dolorlorem ipsum dolor lorem ipsum dolor"
+        android:layout_below="@id/playerInfoDetails"
+
+        />
+</RelativeLayout>
